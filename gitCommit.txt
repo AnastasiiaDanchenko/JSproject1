@@ -6,3 +6,8 @@ git config --local user.email "addanchenko@miem.hse.ru"
 git status
 git add -A
 git commit -a -m"return"
+git log
+git remote add origin https://github.com/AnastasiiaDanchenko/JSproject1
+git branch -M main
+git push -u origin main
+git pull
