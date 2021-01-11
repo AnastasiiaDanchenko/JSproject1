@@ -1,0 +1,8 @@
+git init
+git config --global user.name "Anastasiia Danchenko"
+git config --global user.email "addanchenko@miem.hse.ru"
+git config --local user.name "Anastasiia Danchenko"
+git config --local user.email "addanchenko@miem.hse.ru"
+git status
+git add -A
+git commit -a -m"return"
